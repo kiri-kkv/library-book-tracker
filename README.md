@@ -3,7 +3,7 @@ A JAVA, GUI based application where a librarian can store students records and t
 The records get stored in MySQL database.
 Date of collection and date of submission will be automatically generated.
 
-#Screenshots
+# Screenshots
 
 ![Screenshot (575)](https://user-images.githubusercontent.com/91778893/135766660-908886b1-f62c-41de-8e10-99988daf858d.png)
 
